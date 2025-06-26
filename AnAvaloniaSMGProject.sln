@@ -5,6 +5,8 @@ VisualStudioVersion = 17.12.35506.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnAvaloniaSMGProject", "AnAvaloniaSMGProject.csproj", "{0693DE46-1B2D-4B4F-BF08-7ED5FB3E8B3B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Hack.io", "Hack.io\Hack.io\Hack.io.csproj", "{12C41C86-9039-4085-A214-D4A8FD76C413}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,10 +17,10 @@ Global
 		{0693DE46-1B2D-4B4F-BF08-7ED5FB3E8B3B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0693DE46-1B2D-4B4F-BF08-7ED5FB3E8B3B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0693DE46-1B2D-4B4F-BF08-7ED5FB3E8B3B}.Release|Any CPU.Build.0 = Release|Any CPU
-		{62D968AB-20F2-4791-9F7F-42B184E80ABC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{62D968AB-20F2-4791-9F7F-42B184E80ABC}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{62D968AB-20F2-4791-9F7F-42B184E80ABC}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{62D968AB-20F2-4791-9F7F-42B184E80ABC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{12C41C86-9039-4085-A214-D4A8FD76C413}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{12C41C86-9039-4085-A214-D4A8FD76C413}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{12C41C86-9039-4085-A214-D4A8FD76C413}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{12C41C86-9039-4085-A214-D4A8FD76C413}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
